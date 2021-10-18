@@ -1,0 +1,14 @@
+<library>
+    <author id="1" name="name1" surname="surname1" secondName="secondName1">
+        <birthDate>birthDate1</birthDate>
+        <country>country1</country>
+        <book id="1">
+            <title>title1</title>
+            <date>date1</date>
+        </book>
+        <book id="2">
+            <title>title2</title>
+            <date>date2</date>
+        </book>
+    </author>
+</library>

@@ -1,0 +1,37 @@
+<rootLevelObject>
+
+    <class1 attribute11="attr11Value" attribute12="attr12Value">
+
+        <class3 attribute31="attr31value" attribute32="attr32value">
+
+            <parameter31>parameter31value</parameter31>
+
+            <parameter32>parameter32value</parameter32>
+
+        </class3>
+
+        <class3 attribute31="attr31_2value" attribute32="attr32_2value">
+
+            <parameter31>parameter31_2value</parameter31>
+
+            <parameter32>parameter31_2value</parameter32>
+
+        </class3>
+
+        <class4 attribute41="attr41Value" attribute42="attr42Value">
+
+            <parameter41>parameter41_value</parameter41>
+
+            <parameter42>parameter42_value</parameter42>
+
+        </class4>
+
+        <parameter11>parameter11value</parameter11>
+
+        <parameter12>parameter12value</parameter12>
+
+        <parameter13 paramAtr111="tst">parameter13value</parameter13>
+
+    </class1>
+
+</rootLevelObject>
