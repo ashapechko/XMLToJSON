@@ -1,0 +1,31 @@
+{
+  "class1": {
+    "class3": [
+      {
+        "parameter31": "parameter31value",
+        "parameter32": "parameter32value",
+        "attribute31": "attr31value",
+        "attribute32": "attr32value"
+      },
+      {
+        "parameter31": "parameter31_2value",
+        "parameter32": "parameter31_2value",
+        "attribute31": "attr31_2value",
+        "attribute32": "attr32_2value"
+      }
+    ],
+    "class4": {
+      "parameter41": "parameter41_value",
+      "parameter42": "parameter42_value",
+      "attribute41": "attr41Value",
+      "attribute42": "attr42Value"
+    },
+    "parameter11": "parameter11value",
+    "parameter12": "parameter12value",
+    "parameter13": {
+      "paramAtr111": "tst"
+    },
+    "attribute11": "attr11Value",
+    "attribute12": "attr12Value"
+  }
+}

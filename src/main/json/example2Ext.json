@@ -1,0 +1,22 @@
+{
+  "author": {
+    "birthDate": "birthDate1",
+    "country": "country1",
+    "book": [
+      {
+        "title": "title1",
+        "date": "date1",
+        "id": 1
+      },
+      {
+        "title": "title2",
+        "date": "date2",
+        "id": 2
+      }
+    ],
+    "id": 1,
+    "name": "name1",
+    "secondName": "secondName1",
+    "surname": "surname1"
+  }
+}
